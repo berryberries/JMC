@@ -21,6 +21,7 @@ JaManChu는 위스키를 좋아하는 사람들이 모임을 만들어 소통하
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## ERD
+![image](https://github.com/berryberries/JMC/assets/122462263/94eeb190-e5b4-4258-a10a-0f63f7e91e43)
 
 
 ## 주요기능
