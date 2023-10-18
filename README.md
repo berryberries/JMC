@@ -6,9 +6,6 @@ JaManChu는 위스키를 좋아하는 사람들이 모임을 만들어 소통하
 ## 개발기간 
 23.04 ~ 23.06
 
-## 개발인원
-6명
-
 ## Stacks
 ### Development
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
